@@ -1,0 +1,43 @@
+Q1)What do you mean by BI? Explain.
+Ans: BI stands for Business Intelligence. It's a collection of processes, tools, and technologies that businesses use to convert raw data into meaningful and actionable insights that can help them make more informed decisions. BI integrates data from various sources including databases, spreadsheets, and third-party applications, and analyzes it using advanced analytics such as data mining, data visualization, and predictive modeling. The insights produced by BI can be used by businesses to identify opportunities, optimize operations, and make informed decisions to steer the overall performance of the organization.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q2) How Power-BI helps in BI, and how does it help Analysts? Explain.
+Ans: Power BI is a powerful business intelligence tool that helps organizations convert raw data into meaningful insights. It offers a broad range of functionalities that help analysts create custom business reports and interactive visualizations that aid in decision-making.
+
+Here's how Power BI helps in BI and how it helps analysts:
+
+Data Visualization: Power BI provides a range of data visualization tools that help analysts in identifying valuable insights buried in massive data. The tool offers intuitive and interactive dashboards that provide graphical representations of the data through different charts, graphs, and other visual aids.
+
+Data Analysis: Power BI offers advanced analytics capabilities that simplify the data analysis process for analysts. It offers a wide range of data connectors that enable analytics from a variety of sources, including SQL Server, Excel, and cloud-hosted data sets. These connectors can fetch data from various sources, and analysts can perform complex data transformations for advanced analysis.
+
+Collaboration and Sharing: Power BI makes collaboration and sharing much more straightforward, both among teams and with stakeholders. With Power BI, every team member can access and share real-time data dashboards and reports using any devices. It also allows reports to be shared with a broader audience with a single click.
+
+Automated Insights: Power BI can generate automated insights using machine learning algorithms, making it easier for the analyst to track data trends over time. The analyst can add these insights to reports, and stakeholders can quickly see changes and make informed decisions.
+
+Real-time Reporting: Power BI offers real-time data visualization and reporting, enabling analysts to make quick decisions based on the latest data. Real-time dashboards display data as it updates, allowing analysts to keep track of changes in metrics.
+
+Overall, Power BI simplifies the data analysis process, enabling analysts to create reports and visualizations swiftly, with minimum effort. It offers powerful BI tools that help in unlocking insights previously buried in data, driving better and informed decision-making.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q3) Explain Descriptive analytics?
+Ans: Descriptive analytics is a type of data analysis that focuses on understanding past and present data by summarizing, organizing, and visualizing it. It involves examining historical data to make inferences about what has happened, describing patterns or trends, and identifying relationships between variables. Descriptive analytics can help organizations gain insights into their operations, customer behavior, and market trends. Examples of descriptive analytics include dashboards, charts, graphs, and performance reports that provide information on key performance indicators, such as sales, customer churn, or website traffic. The goal of descriptive analytics is to provide a clear picture of what has happened in the past to guide decision-making in the present and future.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q4) Explain Predictive analytics?
+Ans: Predictive analytics involves analyzing past and current data to make predictions about future events or trends. It combines data mining, machine learning, and other statistical techniques to identify patterns and make accurate forecasts. Predictive analytics can be used in a variety of industries and applications, such as stock market forecasting, customer behavior analysis, and fraud detection. It can help businesses make more informed decisions and improve their efficiency and profitability. Machine learning algorithms play a crucial role in predictive analytics, allowing for the creation of accurate models of future events based on historical patterns and data.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q5) Explain perspective analytics?
+Ans: Perspective analytics is a method or technique used for analyzing data from different perspectives or viewpoints. It involves the use of various tools, methods, and techniques, to analyze data from different dimensions, such as customer segmentation, market trends, and business performance. Perspective analytics provides a holistic view of the data, which enables decision-makers to make informed decisions based on a comprehensive understanding of the data. The objective is to take into account various perspectives and dimensions to provide a more accurate and comprehensive understanding of the data. Perspective analytics is used in various fields, including business, marketing, healthcare, finance, and others, to gain insights about the data from different angles.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q6) Write five real-life questions that PowerBi can solve.
+Ans: 1)What is the monthly revenue of our business by product and location?
+     2)How many customers do we have in each region and what is the average order value?
+     3)Which marketing channels are driving the most leads and sales?
+     4)What is our inventory turnover and which products are slow-moving?
+     5)How has our employee productivity changed over time and which departments need improvement?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
