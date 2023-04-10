@@ -9,7 +9,7 @@ Accuracy: It reduces the chance of errors when querying data, as natural languag
 
 Example: Consider a clothing company that wants to determine its retail store's sales with the help of Power BI. Instead of writing a technical language-based query, a user can ask Power BI 'What is the total sales in all our stores in the last quarter?' Power BI will translate the natural language query and display the results in a graphical representation of sales data across all stores in that period. This provides a quicker, more user-friendly way to access the required data, which could be beneficial to decision-making.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Q2) Explain Web Front End(WFE) cluster from Power BI Service Architecture?
 Ans) In the Power BI Service architecture, a Web Front End (WFE) cluster refers to a group of servers that are responsible for handling user requests and serving web pages to users. The WFE cluster receives requests from users' web browsers and then communicates with other parts of the Power BI Service to retrieve data, generate reports and visualizations, and perform other tasks as needed.
 
@@ -17,7 +17,7 @@ The WFE cluster is a critical component of the Power BI Service architecture bec
 
 Overall, the WFE cluster plays a crucial role in delivering a fast and reliable user experience, making it an essential part of the Power BI Service architecture.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q3) Explain Back End cluster from Power BI Service Architecture?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q3) Explain Back End cluster from Power BI Service Architecture?
 Ans) The Back End cluster in Power BI Service Architecture is responsible for handling all data processing and managing user authentication and authorization. The cluster operates on a set of dedicated servers that work together to provide fast and reliable service to users.
 
 Data processing includes ingesting, transforming, and storing data from various sources. The cluster also executes complex calculations and generates reports and visualizations that users can see on the Power BI service.
@@ -26,10 +26,10 @@ Authentication and authorization involve verifying the identity of the users and
 
 The Back End cluster is a critical component of the Power BI Service Architecture. It allows users to interact with their data in a secure and efficient manner while providing quick and reliable service.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q4) What ASP.NET component does in Power BI Service Architecture?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q4) What ASP.NET component does in Power BI Service Architecture?
 Ans) ASP.NET is a server-side web framework, and it can be used to create dynamic websites and web applications, which can be utilized in web-based BI solutions like Power BI Service. Through ASP.NET, developers can create web pages that can display dynamic data visualizations, charts, and dashboards that can be easily accessed and interacted with by end-users. Therefore, ASP.NET can be a vital component in the architecture of Power BI Service, aiding in the efficient delivery of data insights to users.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q5) Compare Microsoft Excel and PowerBi Desktop on the following features:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q5) Compare Microsoft Excel and PowerBi Desktop on the following features:
 Data import
 Data transformation
 Modeling
@@ -52,7 +52,7 @@ Convert Models: PowerBi Desktop can convert Excel data models into PowerBi model
 
 Cost: Microsoft Excel is included as part of the Microsoft Office suite, and users need to buy the Suite for access. PowerBi Desktop has a free version, which provides basic data analysis features. The paid version of PowerBi Desktop provides advanced data modeling and collaboration features, starting at $9.99/user/month.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q6) List 20 data sources supported by Power Bi desktop.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q6) List 20 data sources supported by Power Bi desktop.
 Ans)1. Excel workbook
 2.SQL Server
 3.Oracle
@@ -74,4 +74,4 @@ Ans)1. Excel workbook
 19.OData feed
 20.Web page
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
