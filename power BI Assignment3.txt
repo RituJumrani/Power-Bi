@@ -15,7 +15,7 @@ Power BI Dataflows: It is a data integration and transformation tool that allows
 
 Power BI Visuals Marketplace: It is a collection of custom visualizations, created by third-party developers, that can be added to Power BI reports and dashboards to enhance data analysis and presentation.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Q2) What limitations of Excel, Microsoft solved by PowerBi?
 Ans) PowerBI was introduced as a cloud-based business analytics tool by Microsoft to overcome a few limitations of Excel. Some of these limitations are as follows:
 
@@ -31,17 +31,17 @@ Real-time analytics: PowerBI offers real-time analytics and delivers insights wi
 
 Overall, PowerBI offers a more modern approach to data analysis, is faster, more scalable, and easier to collaborate, making it a preferable tool for businesses who want to gain insights from their data.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q3) Explain PowerQuery?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q3) Explain PowerQuery?
 Ans) PowerQuery is the technology used by Microsoft Excel and Power BI that allows users to discover, connect, and transform data from multiple sources using a simple, drag-and-drop interface. PowerQuery is a data transformation and cleansing tool that enables users to extract, load, and transform data from various sources such as Excel, CSV, text files, databases, and other data sources.
 
 Some of the key features of PowerQuery include data profiling, data transformations, and data shaping. Data profiling enables users to view data quality, identify data types, and identify relationships between data sources. Data transformation allows users to combine, split, and pivot data, remove duplicates, and check data types. With data shaping, users can pivot, transpose, and unpivot data, merge tables and create custom columns.
 
 PowerQuery makes data analysis easy by providing users with a simple interface to access data from any source and transform the data to meet their specific analysis requirements. With its powerful capabilities, it has become a popular tool for data analysts and business users.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q4) Explain PowerMap?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q4) Explain PowerMap?
 Ans) Power Map is a data visualization tool within Microsoft Excel that enables users to create interactive 3D geographical and topographical maps. It allows users to plot data in real-time on a virtual map using various forms of visualizations such as heat maps, 3D columns, and pie charts while representing different data points in different colors, sizes, and shapes. Power Map helps users identify business and market trends from spreadsheets of data, and combine data from various sources and create multimedia visualizations. It is also a part of the Microsoft Power BI suite of business analytics tools, which integrates with Excel to provide advanced data analysis capabilities.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q5) How powerBi eliminated the need to host SharePoint Server on premises?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------Q5) How powerBi eliminated the need to host SharePoint Server on premises?
 Ans) Power BI eliminates the need to host SharePoint Server on premises by providing a cloud-based solution for data visualization and reporting. With Power BI, users can connect to multiple data sources, create rich visualizations, and share reports and dashboards with others, all from a single, web-based platform.
 
 This means that organizations no longer need to maintain their own SharePoint Server environment, which can be costly and time-consuming. With Power BI, users can easily collaborate and share their work with others, regardless of their location.
@@ -50,7 +50,7 @@ In addition, Power BI offers a wide range of integrations with other Microsoft p
 
 Overall, Power BI provides a more modern, efficient, and cost-effective solution for data visualization and reporting, which has eliminated the need for hosting SharePoint Server on-premises. 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Q6) Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
 Ans) There have been several updates in Power BI Service (Power BI 2.0) as compared to the older versions. Some of these updates include:
 
@@ -66,4 +66,4 @@ Improved performance: Power BI 2.0 has been optimized for better performance and
 
 Overall, the updates in Power BI 2.0 have made it a more powerful and flexible tool for data analysis and reporting. It provides users with more options and functionalities to create meaningful insights from their data.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
