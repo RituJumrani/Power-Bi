@@ -1,0 +1,69 @@
+Q1) List and explain different PowerBi products?
+Ans) Power BI Desktop: It is a free desktop application used to create interactive visualizations, reports, and dashboards by connecting, shaping, and transforming data from multiple sources.
+
+Power BI Service: It is a cloud-based service used to publish, share, and collaborate on reports and dashboards.
+
+Power BI Mobile: It is a mobile application used to view and interact with reports and dashboards on mobile devices.
+
+Power BI Report Server: It is an on-premises server used to deploy Power BI reports and dashboards within an organization's infrastructure.
+
+Power BI Embedded: It is a platform-as-a-service (PaaS) offering used to integrate Power BI reports and dashboards into custom applications, websites, and portals.
+
+Power BI Premium: It is a paid version of Power BI that provides enterprise-level features such as increased storage capacity, advanced data analytics, and premium support.
+
+Power BI Dataflows: It is a data integration and transformation tool that allows users to extract, transform, and load (ETL) data from various sources into Power BI for analysis and reporting.
+
+Power BI Visuals Marketplace: It is a collection of custom visualizations, created by third-party developers, that can be added to Power BI reports and dashboards to enhance data analysis and presentation.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q2) What limitations of Excel, Microsoft solved by PowerBi?
+Ans) PowerBI was introduced as a cloud-based business analytics tool by Microsoft to overcome a few limitations of Excel. Some of these limitations are as follows:
+
+Scalability: Excel has a limitation on how much data it can analyze, whereas PowerBI can handle and analyze large volumes of data, and its performance is not impacted.
+
+Data management: PowerBI is designed to handle various data sources and collect data in real-time. It also offers more in-depth data cleaning and data transformation options.
+
+Collaboration: In Excel, collaboration is not easy, and it’s challenging to work with multiple people on the same workbook. PowerBI allows multiple users to work together on the same dashboard, which makes it possible for teams to collaborate in real-time.
+
+Data Visualization: Excel offers limited data visualization options, and the charts and graphs can be challenging to customize. PowerBI has a vast range of visualization options, and each of them can be customized easily.
+
+Real-time analytics: PowerBI offers real-time analytics and delivers insights within seconds of data being generated. In contrast, Excel requires users to manually update the data which can be time-consuming.
+
+Overall, PowerBI offers a more modern approach to data analysis, is faster, more scalable, and easier to collaborate, making it a preferable tool for businesses who want to gain insights from their data.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q3) Explain PowerQuery?
+Ans) PowerQuery is the technology used by Microsoft Excel and Power BI that allows users to discover, connect, and transform data from multiple sources using a simple, drag-and-drop interface. PowerQuery is a data transformation and cleansing tool that enables users to extract, load, and transform data from various sources such as Excel, CSV, text files, databases, and other data sources.
+
+Some of the key features of PowerQuery include data profiling, data transformations, and data shaping. Data profiling enables users to view data quality, identify data types, and identify relationships between data sources. Data transformation allows users to combine, split, and pivot data, remove duplicates, and check data types. With data shaping, users can pivot, transpose, and unpivot data, merge tables and create custom columns.
+
+PowerQuery makes data analysis easy by providing users with a simple interface to access data from any source and transform the data to meet their specific analysis requirements. With its powerful capabilities, it has become a popular tool for data analysts and business users.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q4) Explain PowerMap?
+Ans) Power Map is a data visualization tool within Microsoft Excel that enables users to create interactive 3D geographical and topographical maps. It allows users to plot data in real-time on a virtual map using various forms of visualizations such as heat maps, 3D columns, and pie charts while representing different data points in different colors, sizes, and shapes. Power Map helps users identify business and market trends from spreadsheets of data, and combine data from various sources and create multimedia visualizations. It is also a part of the Microsoft Power BI suite of business analytics tools, which integrates with Excel to provide advanced data analysis capabilities.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Q5) How powerBi eliminated the need to host SharePoint Server on premises?
+Ans) Power BI eliminates the need to host SharePoint Server on premises by providing a cloud-based solution for data visualization and reporting. With Power BI, users can connect to multiple data sources, create rich visualizations, and share reports and dashboards with others, all from a single, web-based platform.
+
+This means that organizations no longer need to maintain their own SharePoint Server environment, which can be costly and time-consuming. With Power BI, users can easily collaborate and share their work with others, regardless of their location.
+
+In addition, Power BI offers a wide range of integrations with other Microsoft products such as Excel and Teams, enabling users to access and analyze data from multiple sources within their organizational ecosystem. These integrations further reduce the need for on-premises SharePoint Server, as users can work directly with data in Power BI without having to switch between different applications.
+
+Overall, Power BI provides a more modern, efficient, and cost-effective solution for data visualization and reporting, which has eliminated the need for hosting SharePoint Server on-premises. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q6) Explain the updates done in Power Bi Service(power BI 2.0) as compared to older version ?
+Ans) There have been several updates in Power BI Service (Power BI 2.0) as compared to the older versions. Some of these updates include:
+
+Improved user interface: The user interface has been refined and made more intuitive, making it easier for users to navigate and use the different features.
+
+Custom visualizations: Power BI 2.0 includes several new custom visualizations that can be used to create richer and more interactive reports and dashboards.
+
+Expanded data sources: Power BI 2.0 supports a wider range of data sources including cloud-based services such as Azure Analysis Services and Google BigQuery, as well as on-premises databases like SQL Server and Oracle.
+
+Better collaboration and sharing: Power BI 2.0 allows for easier collaboration and sharing of reports and dashboards with colleagues and customers. Users can now easily share content with others within their organization or with external clients.
+
+Improved performance: Power BI 2.0 has been optimized for better performance and faster data processing, making it easier to work with large and complex data sets.
+
+Overall, the updates in Power BI 2.0 have made it a more powerful and flexible tool for data analysis and reporting. It provides users with more options and functionalities to create meaningful insights from their data.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
